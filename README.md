@@ -16,6 +16,9 @@ Requirements:
   * [esx_license](https://github.com/ESX-Org/esx_license)
   
 Usage: Place in resource folder and start via server.cfg or resource manager.
+
 add esx_gangjob.sql to your database
+
 You can edit config.lua for placing Amories and Vehicle Garage.
+
 You can edit job namings in esx_gangjob.sql
